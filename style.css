@@ -1,0 +1,75 @@
+*{
+    background-color: #CED3DC;
+    margin: 2rem;
+    padding-right: 10%;
+}
+
+.name{
+    font-weight: 700;
+    font-size: 32px;
+    color: #222E50;
+   
+}
+.name-text{
+    background-color:#C0DF85;
+ width: 150px;
+ height: 30px;
+}
+.surname{
+    font-weight: 700;
+    font-size: 32px;
+    color: #222E50;
+}
+.surname-text{
+    background-color:#C0DF85;
+    width: 150px;
+    height: 30px;
+}
+.e-mail{
+    font-weight: 700;
+    font-size: 32px;
+    color: #222E50;
+}
+.e-mail-text{
+    background-color:#C0DF85;
+    width: 300px;
+    height: 30px;
+}
+.yaşınız{
+    font-weight: 700;
+    font-size: 32px;
+    color: #222E50;
+}
+.yaş-text{
+    background-color:#C0DF85;
+    width: 35px;
+    height: 30px;
+}
+.mesaj{
+    font-weight: 700;
+    font-size: 32px;
+    color: #222E50;
+}
+.mesaj-box{
+    background-color:#C0DF85;
+    width: 350px;
+    height: 100px;
+}
+.sit-beğen{
+    font-weight: 700;
+    font-size: 32px;
+    color: #222E50;  
+}
+.range{
+    
+    width: 250px;
+    height: 70px;
+}
+.button{
+    padding: 2rem  ;
+    border-radius: 10%;
+    color: whitesmoke;
+    background-color: black;
+ 
+}
+   
